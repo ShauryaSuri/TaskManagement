@@ -27,8 +27,6 @@ Unauthorized users can only access the welcome page and the login or registratio
 - H2 Database
 - Maven
 - Thymeleaf
-- Bootstrap
-- jQuery
 
 ## Test users
 
